@@ -1,0 +1,56 @@
+player = {"Player": "だ",
+          "HP": 125,
+          "Attack": 25,
+          "Shield": 0.625,
+          "Luck": 3,
+          "Money": 125}
+pbar65 = [
+
+    
+     {   "romaji UUEE longers": "da",
+        "HP": 125,
+        "Attack": 25,
+        "script": "f met f good 🥫 hallo freunde",
+        "win": "f I f O 🥫 enemy: ein Smogsparkerein",
+        "loss": "f O f I k,;[lpgt] 🫩✌️🥀"
+    },
+    { "romaji UUEE longers": "ta",
+        "HP": 125,
+        "Attack": 25,
+        "script": "f met f good 🥫 hallo freunde",
+        "win": "f I f O 🥫 enemy: ein Smogsparkerein",
+        "loss": "f O f I k,;[lpgt] 🫩✌️🥀"},
+    {
+     "romaji UUEE longers": "ha",
+        "HP": 125,
+        "Attack": 25,
+        "script": "f met f good 🥫 hallo freunde",
+        "win": "f I f O 🥫 enemy: ein Smogsparkerein",
+        "loss": "f O f I k,;[lpgt] 🫩✌️🥀"
+    },
+    {
+     "romaji UUEE longers": "vrag",
+        "HP": 100,
+        "Attack": 25,
+        "script": "f met f good 🥫 hallo freunde",
+        "win": "f I f O 🥫 enemy: ein Smogsparkerein",
+        "loss": "f O f I k,;[lpgt] 🫩✌️🥀"
+    },
+    {
+     "romaji UUEE longers": "nrag",
+        "HP": 126,
+        "Attack": 25,
+        "script": "f met f good 🥫 hallo freunde",
+        "win": "f I f O 🥫 enemy: ein Smogsparkerein",
+        "loss": "f O f I k,;[lpgt] 🫩✌️🥀"
+    },
+    {
+     "romaji UUEE longers": "sang",
+        "HP": 124,
+        "Attack": 25,
+        "script": "f met f good 🥫 hallo freunde",
+        "win": "f I f O 🥫 enemy: ein Smogsparkerein",
+        "loss": "f O f I k,;[lpgt] 🫩✌️🥀"
+    }
+]
+
