@@ -14,7 +14,7 @@ pbar65 = [
         "win": "f I f O 🥫 enemy: ein Smogsparkerein",
         "loss": "f O f I k,;[lpgt] 🫩✌️🥀"
     },
-    { "romaji UUEE longers": "ta",
+    { "romaji UUEE longers": "ka",
         "HP": 125,
         "Attack": 25,
         "script": "f met f good 🥫 hallo freunde",
